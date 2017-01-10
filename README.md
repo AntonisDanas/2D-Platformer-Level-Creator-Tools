@@ -19,3 +19,4 @@ and review it's values or even change them.
 
 Important:
 Every prefab to be used must be at the "Assets/Prefabs/LevelPieces" path.
+Automated asset management to be added.
